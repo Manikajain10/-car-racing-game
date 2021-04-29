@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas{
+    
+    border: 2px solid black;
+  }
+  P{
+    background-color: aqua;
+  }
+  button{
+    font-size : X-large;
+    background-color: bisque;
+  }
+  input {
+    font-size: x-large;
+    background-color: bisque;
+    text-align: center;
+    padding: 50;
+  
+  }
+  h2{
+    font-size: x-large;
+    color: rgb(218, 221, 39);
+    font-family: Georgia ;
+  }
+  
+  
